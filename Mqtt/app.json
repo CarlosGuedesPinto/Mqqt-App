@@ -1,0 +1,12 @@
+{
+  "name": "MqttTest",
+  "displayName": "MqttTest",
+  "expo": {
+    "name": "MqttTest",
+    "slug": "MqttTest",
+    "version": "1.0.0",
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
